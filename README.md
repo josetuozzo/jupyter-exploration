@@ -1,2 +1,2 @@
 # jupyter-exploration
-# This repository was created as part of a lab to explore GitHub and Jupyter Notebooks. It includes my first Jupyter notebook with basic examples in Markdown and Python, along with initial version control practice using GitHub.
+# This repository contains my first Jupyter Notebook, developed as part of an academic lab exercise to practice GitHub version control and introductory Python/Markdown operations.
